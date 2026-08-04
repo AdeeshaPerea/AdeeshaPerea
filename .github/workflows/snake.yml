@@ -10,11 +10,8 @@ on:
 
 jobs:
   generate:
-<<<<<<< HEAD
-=======
     permissions:
       contents: write
->>>>>>> 6547e10 (Fix GitHub stats endpoints, pinned repo links, and snake workflow permissions)
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
