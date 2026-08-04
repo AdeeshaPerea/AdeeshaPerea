@@ -102,33 +102,18 @@ Actively engaged in the tech community through IEEE and AWS student initiatives.
 
 <div align="center">
 
-<<<<<<< HEAD
-<a href="https://github.com/AdeeshaPerea">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdeeshaPerea&repo=VisionGate&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AdeeshaPerea/AWT-Austrlia-travel-website">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=AWT-Austrlia-travel-website&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/AdeeshaPerea">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdeeshaPerea&repo=Laundry-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/AdeeshaPerea">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdeeshaPerea&repo=Mute-Heart&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AdeeshaPerea">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdeeshaPerea&repo=Corporate-Travel-Website&theme=tokyonight&hide_border=true" />
-=======
-<a href="https://github.com/AdeeshaPerea/VisionGate">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=VisionGate&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AdeeshaPerea/Laundry-Management-System">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=Laundry-Management-System&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AdeeshaPerea/LaundryManagementSystem">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=LaundryManagementSystem&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/AdeeshaPerea/Mute-Heart">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=Mute-Heart&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AdeeshaPerea/Swiszta">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=Swiszta&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/AdeeshaPerea/Corporate-Travel-Website">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=Corporate-Travel-Website&theme=tokyonight&hide_border=true" />
->>>>>>> 6547e10 (Fix GitHub stats endpoints, pinned repo links, and snake workflow permissions)
+<a href="https://github.com/AdeeshaPerea/HotelReservation">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=AdeeshaPerea&repo=HotelReservation&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -163,21 +148,11 @@ Interactive educational app visualizing the Hungarian & Greedy algorithms step-b
 
 <div align="center">
 
-<<<<<<< HEAD
-<img src="https://github-readme-stats.vercel.app/api?username=AdeeshaPerea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeeshaPerea&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=AdeeshaPerea&theme=tokyonight&hide_border=true" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdeeshaPerea&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-=======
-<img src="https://github-stats-extended.vercel.app/api?username=AdeeshaPerea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=AdeeshaPerea&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdeeshaPerea&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=AdeeshaPerea&theme=tokyonight&hide_border=true" width="70%"/>
 
->>>>>>> 6547e10 (Fix GitHub stats endpoints, pinned repo links, and snake workflow permissions)
 </div>
 
 <br/>
