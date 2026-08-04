@@ -136,10 +136,6 @@ IoT smart glove translating hand gestures into text and speech to bridge communi
 Responsive, enterprise-style corporate travel site with a modern, mobile-first UI.
 `React` `Vite` `CSS`
 
-### 🎮 Minimum Cost Assignment Game
-Interactive educational app visualizing the Hungarian & Greedy algorithms step-by-step.
-`React` `Spring Boot` `Java`
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
