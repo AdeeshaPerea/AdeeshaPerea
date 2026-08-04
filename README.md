@@ -151,8 +151,6 @@ Interactive educational app visualizing the Hungarian & Greedy algorithms step-b
 <img src="https://github-stats-extended.vercel.app/api?username=AdeeshaPerea&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdeeshaPerea&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=AdeeshaPerea&theme=tokyonight&hide_border=true" width="70%"/>
-
 </div>
 
 <br/>
